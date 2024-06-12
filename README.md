@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, this is Uzair</h1>
 <h3 align="center">Python | Flutter Developer | Crafting Elegant Solutions in Code</h3>
 
-<img src="https://art.pixilart.com/sr2712ab0b35ecd.gif">
+<img width="200" src="https://art.pixilart.com/sr2712ab0b35ecd.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zynx05&label=Profile%20views&color=0e75b6&style=flat" alt="zynx05" /> </p>
 
