@@ -1,7 +1,5 @@
 <h3 align="center">Python | ML | Tensorflow | Matplot | sklearn | pandas | numpy </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zynx05&label=Profile%20views&color=0e75b6&style=flat" alt="zynx05" /> </p>
-
 - 🌱 currently learning **ML**
 
 <h3 align="left">Connect with me:</h3>
